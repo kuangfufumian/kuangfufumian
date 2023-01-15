@@ -21,8 +21,8 @@ https://bit.ly/3QKpQqW
 https://bit.ly/3DctlAX
 https://bit.ly/3kjENnn
 # 频道群组机器人
-频道： https://bit.ly/3iLk9Mb
-群组： https://bit.ly/3iLk9Mb
-机器人： https://bit.ly/3P4t73n
+频道: https://bit.ly/3iLk9Mb
+群组: https://bit.ly/3iLk9Mb
+机器人: https://bit.ly/3P4t73n
 # pixiv
 https://bit.ly/3ZDiFod
