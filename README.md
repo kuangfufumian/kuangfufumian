@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 ## 账号和备份
 # 网站
-https://bit.ly/3QKpQqW
+上线了: https://bit.ly/3QKpQqW
+blogspot: https://bit.ly/3ZFtB52
 # 网站备份站
 https://bit.ly/3DctlAX
 https://bit.ly/3kjENnn
