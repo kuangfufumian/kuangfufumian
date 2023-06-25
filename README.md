@@ -18,7 +18,18 @@ Here are some ideas to get you started:
 <!--
 感谢你看到了在注释
 -->
-![测试](/1.png "1")
+![矿附负面](/1.png "1")
+![kuangfufumian](/2.png "2")
+![矿附负面](/3.png "3")
+![kuangfufumian](/4.png "4")
+![矿附负面](/5.png "5")
+![kuangfufumian](/6.png "6")
+![矿附负面](/7.png "7")
+![kuangfufumian](/8.png "8")
+![矿附负面](/9.png "9")
+![kuangfufumian](/10.png "10")
+![矿附负面](/11.png "11")
+
 ## 账号和备份
 管理员注: 点击bitly短链接后会重定向到另一个长链接服务，然后重定向到真实地址，这样做是为了防止爬虫。
 ### 网站
